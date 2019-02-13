@@ -1,4 +1,4 @@
-# Hygiene App
+# Hygiene-App
 An iOS app I developed to display hygiene ratings for restaurants from the users location within a certain radius.
 
 Installing
