@@ -20,3 +20,15 @@ The Second View Controller can be found by selecting one of the cells which disp
 I have created a Tab Bar Controller which will take the user to a map.
 The Final View Controller is a map view and for testing purposes I have added a button which allows the user to locate their position (this is useful if you change the custom locations). At the top left, a bar button is used to show restaurants in the surrounding areas of the users location.
 The Main.storyboard shows the layout of the Tab Bar Controller, Navigation Controller and the three View Controllers.
+
+Testing
+
+#1
+Latitude-
+Longitude-
+
+#2
+Latitude-
+Longitude-
+
+I LOVE YOU LEENA
