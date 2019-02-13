@@ -25,9 +25,9 @@ Testing
 
 #1
 
-Latitude-
+Latitude- 51.5074
 
-Longitude-
+Longitude- 0.1278
 
 #2
 
