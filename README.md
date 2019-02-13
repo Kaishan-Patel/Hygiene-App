@@ -1,5 +1,5 @@
 # Hygiene-App
-An iOS app I made to display restaurant ratings withing a certain radius.
+An iOS app I made to display hyigene ratings for restaurants from the users location within a certain radius.
 
 Installing
 
@@ -18,3 +18,4 @@ The First View Controller is in a Table view, each cell has the business name an
 The Second View Controller can be found by clicking onto one of the cells which displays more information about the restaurant and a map view in which you can click on and get directions to the venue through Apple Maps.
 There is a tab bar at the bottom of the application which will take the user to a map.
 The final View Controller is a map view and for testing purposes I added a button which allows the user to locate their position, (this is useful if you change the custom locations). At the top right, a bar button is used to show restaurants in the surrounding areas of the users location.
+The Main.storyboard shows the layout of the Tab Bar Controller, Navigation Controller and the three View Controllers.
