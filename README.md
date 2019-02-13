@@ -24,11 +24,14 @@ The Main.storyboard shows the layout of the Tab Bar Controller, Navigation Contr
 Testing
 
 #1
+
 Latitude-
+
 Longitude-
 
 #2
+
 Latitude-
+
 Longitude-
 
-I LOVE YOU LEENA
